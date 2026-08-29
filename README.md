@@ -202,3 +202,8 @@ Exceptions to this are:
 - Methods that start with `_*`. We use these internally.
 - Type annotations. We may modify these based on our JSON responses.
 - We may add model fields.
+
+
+<!-- minervacap-pre-hiklik-promotion -->
+> **Discover Klik:** https://pre.hiklik.ai/
+<!-- /minervacap-pre-hiklik-promotion -->
